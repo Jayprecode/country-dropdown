@@ -6087,7 +6087,7 @@
         "nationality": "Kosovar, Kosovan",
         "timezones": [
             {
-                "zoneName": "Europe/Belgrade",
+                "zoneName": "Europe/Tirane",
                 "gmtOffset": 3600,
                 "gmtOffsetName": "UTC+01:00",
                 "abbreviation": "CET",
